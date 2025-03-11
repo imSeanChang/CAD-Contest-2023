@@ -1,0 +1,32 @@
+{
+    "files.associations": {
+        "tuple": "cpp",
+        "utility": "cpp",
+        "iostream": "cpp",
+        "xstring": "cpp",
+        "ostream": "cpp",
+        "xtree": "cpp",
+        "cmath": "cpp",
+        "map": "cpp",
+        "xutility": "cpp",
+        "cstdlib": "cpp",
+        "random": "cpp",
+        "system_error": "cpp",
+        "xlocale": "cpp",
+        "deque": "cpp",
+        "initializer_list": "cpp",
+        "vector": "cpp",
+        "fstream": "cpp",
+        "format": "cpp",
+        "list": "cpp",
+        "limits": "cpp",
+        "queue": "cpp",
+        "stack": "cpp",
+        "algorithm": "cpp",
+        "iterator": "cpp",
+        "xmemory": "cpp",
+        "chrono": "cpp",
+        "iosfwd": "cpp",
+        "xstddef": "cpp"
+    }
+}
